@@ -1,36 +1,12 @@
-Github: https://github.com/prakhar28sharma/Data-Analysis-Medical_No_Show
+This project is to review ML model building in predicting medical appointment no-shows
 
-# Medical No-Shows - Data Analysis & No-show Prediction
+1. Business Problem/Question
+- No-shows are preventable waste of limited healthcare resources
+- Can we predict someone to no-show an appointment?
 
-## Data Description
+2. Objective
+- Find the best ML model in predicting no-shows among medical appointments using historical dataset of of 300k medical appointments available on Kaggle
 
-Data set consists of 300k medical appointments and its 15 variables (characteristics) of each.
-
-#### Data Dictionary
-
-* PatientId : Patient unique Id
-* AppointmentID : Appointment ID of a patient
-* Gender : Male or Female
-* ScheduledDay : The day it was scheduled
-* AppointmentDay : The day of an appointment
-* Age : How old is the patient
-* Neighbourhood : Where the appointment takes place
-* Scholarship : True or False
-* Hipertension : True or False
-* Diabetes : True or False
-* Alcoholism : True or False
-* Handcap : True or False
-* SMS_received : 1 or more messages sent to the patient
-* No-show : No or Yes
-
-## Tasks performed
-* Data Wrangling
-* Feature Engineering
-* Descriptive Data Analysis
-* Feature Selection
-* Model Formulation & its analysis
-
-## Libraries used
-numpy, pandas, scikit learn, matplotlib, seaborn, plotly, cufflinks
-
-#### Some of the plots were missing/not rendered properly in github while uploading
+3. Ref:  
+- Data: Kaggle.com
+- Codes: https://github.com/TCSS-555-Machine-Learning/No-Show-Prediction and https://github.com/munozalexander/NoShow-Prediction
