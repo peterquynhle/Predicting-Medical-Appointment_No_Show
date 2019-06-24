@@ -9,4 +9,4 @@ This project is to review ML model building in predicting medical appointment no
 
 3. Ref:  
 - Data: Kaggle.com
-- Codes: https://github.com/TCSS-555-Machine-Learning/No-Show-Prediction and https://github.com/munozalexander/NoShow-Prediction
+- Code ref: https://github.com/TCSS-555-Machine-Learning/No-Show-Prediction and https://github.com/munozalexander/NoShow-Prediction
